@@ -20,9 +20,7 @@
 
   ## Usage📋
   
-```
-node index
-```
+This application uses MongoDB.
 
   ---
 
