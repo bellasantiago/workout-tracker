@@ -26,7 +26,7 @@ This application uses MongoDB.
 
   ## Sample🎥
   
-  Application has been deployed to Heroku. Here you can see it in action. [ClickMe](https://github.com/bellasantiago/employee-management)
+  Application has been deployed to Heroku. Here you can see it in action. [ClickMe](https://workouttrkr.herokuapp.com/)
 
   ---
 
